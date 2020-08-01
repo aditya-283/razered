@@ -7,4 +7,4 @@ Reach me at - </br>
 :email: bhagwat.work@gmail.com
 
 
-![screenshot](DSC_7089.JPG)
+![screenshot](razered/razered/DSC_7089.JPG)
