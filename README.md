@@ -5,6 +5,3 @@ I’m currently using Typescript at work and learning functional constructs in H
 Reach me at - </br>
 :phone: (+91) 7384449875 </br>
 :email: bhagwat.work@gmail.com
-
-
-![screenshot](razered/razered/DSC_7089.JPG)
