@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there, I'm Aditya 👋
 
 - 🔭 I’m currently using Typescript at work and learning functional constructs (via Haskell) in my free time.
 - 👯 I’m looking to collaborate on working through Real World Haskell or contributing to Pytorch.
