@@ -1,6 +1,12 @@
 ### Hi there, I'm Aditya 👋
 
-I’m currently using [Typescript](https://www.typescriptlang.org/) at work and learning functional programming constructs in [Haskell](https://www.haskell.org/) during my free time. I’m looking to collaborate on working through the book [Real World Haskell](http://book.realworldhaskell.org/) or contributing to [Pytorch](https://github.com/pytorch/pytorch).
+I'm a grad student at CMU currently and my coursework consists of deep learning, large-scale machine learning systems, and modern NN-based approaches in natural language processing.
+
+Prior to coming to CMU, I worked at fast-paced startups as a software developer building fast, scalable, and extensible services using Django, Node, and Spring-Boot frameworks.
+
+My hobbies include functional programming in Ocaml or Haskell and chess.
+
+The fastest way to reach me is via email at abhagwa2@cs.cmu.edu
 
 Reach me at - </br>
 :phone: +1 (412) 954-8718 </br>
