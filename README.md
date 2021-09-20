@@ -10,4 +10,4 @@ The fastest way to reach me is via email at abhagwa2@cs.cmu.edu
 
 Reach me at - </br>
 :phone: +1 (412) 954-8718 </br>
-:email: abhagwa2@andrew.cmu.edu
+:email: abhagwa2@cs.cmu.edu
