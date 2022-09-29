@@ -1,6 +1,6 @@
 ### Hi there, I'm Aditya 👋
 
-I'm a grad student at CMU currently and my coursework consists of deep learning, large-scale machine learning systems, and modern NN-based approaches in natural language processing.
+I'm a grad student at CMU currently and my coursework consists of deep learning and large-scale machine learning systems.
 
 Prior to coming to CMU, I worked at fast-paced startups as a software developer building fast, scalable, and extensible services using Django, Node, and Spring-Boot frameworks.
 
